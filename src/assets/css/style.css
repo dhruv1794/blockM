@@ -1,0 +1,37 @@
+.body-class{
+    margin-top: 56px;
+}
+.black-back{
+    background: #555;
+}
+.margin-56{
+    top:56px;
+}
+.body-class{
+    margin-top:106px;
+    padding-left: 115px;
+    padding-right:115px;
+
+}
+.image-container{
+    width: 100%;
+    overflow: hidden;
+   
+    margin-top: 25px;
+}
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #eee;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.white-back{
+    background:#479C48;
+    color:white;
+}
+.white-back a{
+    color:white;
+}
